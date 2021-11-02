@@ -1,0 +1,23 @@
+.Header {
+  background-color: yellow;
+}
+
+.Img1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.text {
+  text-align: center;
+}
+.div1 {
+  width: 50%;
+  float: left;
+}
+
+.div2 {
+  padding-top: 3.3rem;
+  width: 50%;
+  float: right;
+}
